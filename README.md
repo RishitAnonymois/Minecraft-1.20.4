@@ -9,4 +9,4 @@ current build: 0.0.2 dev build
 # Note
 - this is legit and not fake
 - i will only code more things if i have time
-- some features come from EaglyMC on git.webmc.xyz/Zumbiepig/EaglyMC
+- some features come from EaglyMC on https://git.webmc.xyz/Zumbiepig/EaglyMC
